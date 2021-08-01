@@ -9,8 +9,10 @@
 <!-- [![JSChang's github stats](https://github-readme-stats.vercel.app/api?username=jschang0215&show_icons=true&theme=dracula)](https://github.com/jschang0215) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschang0215&layout=compact&langs_count=8&theme=dracula)](https://github.com/jschang0215)
 
+You can check my [website](https://jschanginfo.netlify.app/)
+
 ### 🔭 Short Bio
-- Seoul National University (Mar 2021 ~ Present)
+- Computer Science and Engineering, Seoul National University (Mar 2021 ~ Present)
 - Daegu Science High School (Mar 2018 ~ Feb 2021)
 
 ### 📫 Interests
