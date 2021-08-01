@@ -9,7 +9,7 @@
 [![JSChang's github stats](https://github-readme-stats.vercel.app/api?username=jschang0215&show_icons=true&theme=dracula)](https://github.com/jschang0215)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jschang0215&layout=compact&langs_count=8&theme=dracula)](https://github.com/jschang0215)
 
-💻You can check my [website](https://jschanginfo.netlify.app/)
+💻You can check my [Personal Website](https://jschanginfo.netlify.app/) or [Blog](https://jschang.tistory.com/)
 
 ### 🎓 Short Bio
 - Computer Science and Engineering, Seoul National University (Mar 2021 ~ Present)
