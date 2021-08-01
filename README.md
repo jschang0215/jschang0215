@@ -1,4 +1,4 @@
-### Juneseo Chang
+### Juneseo Chang @jschang0215
 
 👋 Hi! Welcome to my Github profile!
 
