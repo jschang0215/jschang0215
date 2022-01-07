@@ -16,10 +16,9 @@
 - Daegu Science High School (Mar 2018 ~ Feb 2021)
 
 ### 💼 Experience
-- Undergraduate Visting Researcher @AI-SoC Lab, Kyungbook National University (Apr 2021 ~ Present)
+- Undergraduate Visting Researcher [AI-SoC Lab](https://ai-soc.github.io/index.html), Kyungbook National University (Sep 2021 ~ Present)
 
 ### ⚡ Interests
 - TinyML
-- Linux Kernel, Operating System
-- Reverse Engineering, Security
-- Algorithmic Trading, Reinforcement Learning
+- LLVM
+- Linux Kernel
